@@ -1,5 +1,5 @@
 
-module.exports = {
+module.exports = $ { config . solc } 
   solc: "solc",                                         // Solc command to run
   solc_args: [],                                        // Extra solc args
   solc_shell_args: {                                    // Args passed to `exec`, see:
